@@ -1,46 +1,27 @@
-# Getting Started with Create React App
+Storybook UI Components
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A collection of reusable React UI components (Button, Card, InputField, Navbar) documented and showcased using Storybook.
 
-## Available Scripts
+This project demonstrates how to build, style, and test UI components with TypeScript + TailwindCSS + Storybook 9. It can be extended as a component library for larger React projects.
 
-In the project directory, you can run:
+🚀 Features
 
-### `npm start`
+📦 Reusable and customizable React components.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+🎨 Styled with Tailwind CSS for a modern look.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+📖 Storybook integration for interactive documentation.
 
-### `npm test`
+🧪 Supports unit testing with Jest / React Testing Library (optional).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🌐 Ready for deployment (Netlify / Vercel / GitHub Pages).
 
-### `npm run build`
+📸 Components
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+>Button → Variants: Primary, Secondary, Danger.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+>Card → With title, content, and optional image.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+>InputField → Text, Password, Email input.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+>Navbar → Dynamic links.
