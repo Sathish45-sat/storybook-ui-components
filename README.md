@@ -25,3 +25,5 @@ This project demonstrates how to build, style, and test UI components with TypeS
 >InputField → Text, Password, Email input.
 
 >Navbar → Dynamic links.
+
+>DataTable-> Loading,Empty,Selectable.
